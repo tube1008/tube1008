@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=낄끼빠빠&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=낄끼빠빠&animation=fadeIn&fontColor=ff0000)
 
 <h1 align="center">Hi 👋, I'm Il hyuk:sparkling_heart::sweat_drops:</h1>
 <h3 align="center">:smiley:Having a lot of money is the best!!!!!:money_with_wings:</h3>
