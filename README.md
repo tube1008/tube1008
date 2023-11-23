@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Il hyuk</h1>
+<h1 align="center">Hi 👋, I'm Il hyuk:sparkling_heart::sweat_drops:</h1>
 <h3 align="center">Having a lot of money is the best!!!!!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:star:Connect with me::star:</h3>
 <p align="left">
 <a href="https://instagram.com/daily_tori_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daily_tori_" height="30" width="40" /></a>
 </p>
