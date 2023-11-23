@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=가즈아!! 디지털 세계로!!!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=가즈아%20디지털%20세계로&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm Il hyuk:sparkling_heart::sweat_drops:</h1>
 <h3 align="center">:smiley:Having a lot of money is the best!!!!!:money_with_wings:</h3>
